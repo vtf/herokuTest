@@ -1,0 +1,1 @@
+web: java -jar /target/zamroApiRestV1.war
